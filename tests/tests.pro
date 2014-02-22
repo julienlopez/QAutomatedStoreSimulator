@@ -12,5 +12,6 @@ LIBS += -lQAutomatedStoreSimulator
 INCLUDEPATH += $$QAUTOMATEDSTORESIMULATOR_LIB
 
 SOURCES += main.cpp \
+    test_store.cpp
 
 #HEADERS  +=
